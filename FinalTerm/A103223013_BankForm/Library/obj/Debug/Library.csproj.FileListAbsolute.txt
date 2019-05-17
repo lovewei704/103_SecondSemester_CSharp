@@ -1,0 +1,135 @@
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Week_6_Homework\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\School\C#\new\Homework_2014_12_27\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+I:\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+I:\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+I:\Homework_A103223013\Library\bin\Debug\Class_form_11_13.pdb
+I:\Homework_A103223013\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+I:\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+I:\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\新增資料夾\Homework_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ClassTest_1_Array\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\bin\Debug\Class_form_11_13.pdb
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+H:\世新\C#\下學期課堂\Class3\ClassDemo_1_Array\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Documents\Visual Studio 2012\Projects\Test_Average_Application\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Test_Average_Application\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Test_Average_Application\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Test_Average_Application\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\Test_Average_Application\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Test_Average_Application\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Test_Average_Application\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\ListCollectionDemo_20150409\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\TestScoreInLINQ_20150409\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Documents\Visual Studio 2013\Projects\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\bin\Debug\Class_form_11_13.pdb
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\BankUIForm_20150507\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\BankUIForm_20150507\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Desktop\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\BankUIForm_20150507\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\BankForm_20150528\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\BankForm_20150528\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Desktop\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Class4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Class4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Class4\BankForm_20150528\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Class4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Class4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+I:\世新\C#\103\下學期\作業\期中後\Week4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+I:\世新\C#\103\下學期\作業\期中後\Week4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+I:\世新\C#\103\下學期\作業\期中後\Week4\BankForm_20150528\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+I:\世新\C#\103\下學期\作業\期中後\Week4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+I:\世新\C#\103\下學期\作業\期中後\Week4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\Week4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\Week4\BankForm_20150528\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\SHU-IM\Desktop\Week4\BankForm_20150528\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Desktop\Week4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\SHU-IM\Desktop\Week4\BankForm_20150528\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Class5\BankForm_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Class5\BankForm_A103223013\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\Wei\Desktop\Class5\BankForm_A103223013\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Class5\BankForm_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\Wei\Desktop\Class5\BankForm_A103223013\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+F:\世新\C#\103\下學期\期末報告\FinalTerm_A103223013\A103223013_BankForm\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+F:\世新\C#\103\下學期\期末報告\FinalTerm_A103223013\A103223013_BankForm\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+F:\世新\C#\103\下學期\期末報告\FinalTerm_A103223013\A103223013_BankForm\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\世新\C#\103\下學期\期末報告\FinalTerm_A103223013\A103223013_BankForm\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+F:\世新\C#\103\下學期\期末報告\FinalTerm_A103223013\A103223013_BankForm\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\shu\Desktop\程式設計(網科)\程設作業(下學期)\期末考\A103223013_翁華威\A103223013_BankForm\Library\bin\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\shu\Desktop\程式設計(網科)\程設作業(下學期)\期末考\A103223013_翁華威\A103223013_BankForm\Library\bin\Debug\ClassLibrary_11_20_013_023.pdb
+C:\Users\shu\Desktop\程式設計(網科)\程設作業(下學期)\期末考\A103223013_翁華威\A103223013_BankForm\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\shu\Desktop\程式設計(網科)\程設作業(下學期)\期末考\A103223013_翁華威\A103223013_BankForm\Library\obj\Debug\ClassLibrary_11_20_013_023.dll
+C:\Users\shu\Desktop\程式設計(網科)\程設作業(下學期)\期末考\A103223013_翁華威\A103223013_BankForm\Library\obj\Debug\ClassLibrary_11_20_013_023.pdb
