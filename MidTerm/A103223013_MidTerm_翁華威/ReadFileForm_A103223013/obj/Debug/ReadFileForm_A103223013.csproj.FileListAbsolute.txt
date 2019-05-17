@@ -1,0 +1,32 @@
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe.config
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.pdb
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\LibraryAPP_A103223013.dll
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\StudentLibrary_A103223013.dll
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\LibraryAPP_A103223013.pdb
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\bin\Debug\StudentLibrary_A103223013.pdb
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.csprojResolveAssemblyReference.cache
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.Properties.Resources.resources
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.ReadFileForm.resources
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.csproj.GenerateResource.Cache
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.exe
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.pdb
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe.config
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.exe
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.pdb
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.pdb
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\LibraryAPP_A103223013.dll
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\StudentLibrary_A103223013.dll
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\LibraryAPP_A103223013.pdb
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\StudentLibrary_A103223013.pdb
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.csprojResolveAssemblyReference.cache
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.Properties.Resources.resources
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.ReadFileForm.resources
+C:\Users\SHU-IM\Desktop\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.csproj.GenerateResource.Cache
+I:\世新\C#\下學期期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe.config
+I:\世新\C#\下學期期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.exe
+I:\世新\C#\下學期期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.pdb
+I:\世新\C#\103\下學期\期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\bin\Debug\ReadFileForm_A103223013.exe.config
+I:\世新\C#\103\下學期\期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.exe
+I:\世新\C#\103\下學期\期中考\A103223013_MidTerm_翁華威\ReadFileForm_A103223013\obj\Debug\ReadFileForm_A103223013.pdb

@@ -1,0 +1,5 @@
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\LibraryAPP_A103223013\bin\Debug\LibraryAPP_A103223013.dll
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\LibraryAPP_A103223013\bin\Debug\LibraryAPP_A103223013.pdb
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\LibraryAPP_A103223013\obj\Debug\LibraryAPP_A103223013.dll
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\LibraryAPP_A103223013\obj\Debug\LibraryAPP_A103223013.pdb
+c:\users\shu-im\documents\visual studio 2013\Projects\StudentLibrary_A103223013\LibraryAPP_A103223013\obj\Debug\LibraryAPP_A103223013.csprojResolveAssemblyReference.cache
